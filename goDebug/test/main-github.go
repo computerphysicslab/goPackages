@@ -5,7 +5,8 @@ but capable to render any kind of data structure. Here it is, simple and useful.
 
 package main
 
-import "github.com/computerphysicslab/goPackages/goDebug"
+// import "github.com/computerphysicslab/goPackages/goDebug"
+import "git.hsap.sacyl.es/25163283H/goPackages/goDebug"
 
 func main() {
 	link1 := "https://hn.algolia.com/?dateRange=pastWeek&page=0&prefix=false&query=golang&sort=byDate&type=story"
